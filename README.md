@@ -32,6 +32,7 @@ img_flip = img.transpose(Image.FLIP_LEFT_RIGHT)
   python3 flip.py input.jpp output.jpp
   ```
 ### 3.2.出力結果
+
 - 以下のように入力画像の左右反転画像が出力されます。
 
 
